@@ -28,6 +28,7 @@ public class Car {
     }
 
     public String toString() {
-        return "This car is a " + brand + ", model: " + model + ", its plate: " + plate + ", its Engine Size: " +  engineSize + ".";
+        return "This car is a " + brand + ", model: " + model + ", its plate: " + plate + ", its Engine Size: "
+                + engineSize + ".";
     }
 }
