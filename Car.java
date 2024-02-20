@@ -14,15 +14,27 @@ public class Car {
     public String getBrand() {
         return brand;
     }
+    public String setBrand() {
+        return brand;
+    }
 
     public String getModel() {
+        return model;
+    }
+    public String setModel() {
         return model;
     }
 
     public String getPlate() {
         return plate;
     }
+    public String setPlate() {
+        return plate;
+    }
 
+    public int getEngineSize() {
+        return engineSize;
+    }
     public int setEngineSize() {
         return engineSize;
     }
